@@ -1,8 +1,10 @@
 ---
 layout: post
 title: 学习DP(Dynamic Programming)纪实(一) 
-date: 2018-7-19
-tags: dp，dynamic programming
+date: 2018-10-01
+author: ygritte
+tags:
+    -dp
 ---
 # 学习DP(Dynamic Programming)纪实(一) #
 如果真要谈算法，平时做的OJ上的题目，也只有DP可以算得上算法了，但是由于DP的难以理解一直未能入门，临近毕业，找工作也排上了日程，刷题是必不可少的，借此找工作机会的契机，逼一逼自己，要努力啃下了这块硬骨头。
